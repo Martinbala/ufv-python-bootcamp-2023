@@ -3,6 +3,8 @@ from turtle import (
 )  # Importing the Turtle class because our cars are also going to be turtles! 🐢🚗
 import random  # Gonna use this to add some unpredictability to our game
 
+from turtle import Screen
+
 # Defining some constants that we'll use
 COLORS = [
     "red",
